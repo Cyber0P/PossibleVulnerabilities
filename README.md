@@ -8,7 +8,7 @@ Possible Vulnerabilities is a exploitation tool that allows you to perform diffe
 * [ ] Response + set cookies
 * [ ] Response + save HTTP headers 
 * [ ] Sessions Implementation for multiple requests
-* [ ] 
+
 ## TODO [Vulnerabilities Implementation]
 * [ ] HTTP request smuggling
 * [ ] HTTP response splitting
