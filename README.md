@@ -1,5 +1,5 @@
 # Possible Vulnerabilities
-Possible Vulnerabilities is a exploitation tool that allows you to perform different HTTP header attacks.
+Possible Vulnerabilities is an exploitation tool that allows you to perform different HTTP header attacks.
 
 ## TODO [HTTP Methods Class Implementation]
 * [x] GET and POST requests
