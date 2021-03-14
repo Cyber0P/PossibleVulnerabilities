@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "possible vulnerabilities": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.google.com/"
+    }
+  }
+}
