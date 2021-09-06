@@ -12,7 +12,7 @@ Possible Vulnerabilities is an exploitation tool that allows you to perform diff
 ## TODO [Vulnerabilities Implementation]
 * [?] HTTP request smuggling
 * [ ] HTTP response splitting
-* [ ] Session fixation
+* [?] Session fixation
 * [x] HTTP parameter pollution
-* [x] HTTP Host Header attack [X-Forwarded-Host]
+* [?] HTTP Host Header attack [X-Forwarded-Host]
 * [ ] HTTP request methods change
